@@ -1,9 +1,6 @@
 <h1 align="center">Hi 🤠, I'm Víctor Arroyo</h1>
 <h3 align="center">A passionate software developer form Spain</h3>
 
-
-<p align="left"> <a href="https://twitter.com/victorrosalejo_" target="blank"><img src="https://img.shields.io/twitter/follow/victorrosalejo_?logo=twitter&style=for-the-badge" alt="victorrosalejo_" /></a> </p>
-
 - 🔭 I’m currently working on [Spacecon](https://spacecon.etsit.urjc.es/)
 
 - 🌱 I’m currently learning **Python Courses.**
