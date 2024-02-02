@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at the end of this page. 
 
-- 📫 How to reach me **victorarroyomadera@gmail.com**
+- 📫 How to reach me **victorrosalejo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
