@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/victorrosalejo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="victorrosalejo_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/victor-arroyo-madera-a60183239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Víctor Arroyo Madera" height="30" width="40" /></a>
 <a href="https://discord.gg/victorrosalejo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="victorrosalejo#7627" height="30" width="40" /></a>
 </p>
